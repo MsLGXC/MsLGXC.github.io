@@ -2,6 +2,7 @@
 <div align="center">
   <h1> 基于 Github Pages 的静态页面资源分享站测试 </h1>
 </div>
+<iframe src="https://raw.githubusercontent.com/MsLGXC/MsLGXC.github.io/main/README.md" width="100%" height="100%" frameborder="0"></iframe>
 
 # 目录
 
@@ -40,7 +41,7 @@
 <details>
   <summary style="font-size:22px;">苦主救助中心Ⅳ Lovelorn Sanatorium Ⅳ DLCV0.01.1</summary>
 
-  - ***资源名称***：*苦主救助中心Ⅳ Lovelorn Sanatorium Ⅳ DLCV0.01.1*
+  - [x] ***资源名称***：*苦主救助中心Ⅳ Lovelorn Sanatorium Ⅳ DLCV0.01.1*
   - [x] ***资源版本***：*v0.01.1 测试版*
   - [x] ***资源链接***：*[苦主救助中心Ⅳ Lovelorn Sanatorium Ⅳ DLCV0.01.1](https://kooink.top/wp-content/uploads/2024/04/K-0202.7z)*
   - [ ] ***下载密码***：*无*
