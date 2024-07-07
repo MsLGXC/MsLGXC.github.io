@@ -13,7 +13,7 @@
 ## ***软件工具***
 
 <details>
-  <summary style="font-size:22px;">jetbra(ja-netfilter) - JetBrains全家桶及各种开发软件激活</summary>
+  <summary style="font-size:22px;">jetbra(ja-netfilter) - JetBrains全家桶及各种开发软件激活</summary><br>
 
   - [x] ***资源名称***：*jetbra(ja-netfilter)*
   - [x] ***资源版本***：*8.0.1*
@@ -36,7 +36,7 @@
 ## ***颜色游戏***
 
 <details>
-  <summary style="font-size:22px;">苦主救助中心Ⅳ Lovelorn Sanatorium Ⅳ DLCV0.01.1</summary>
+  <summary style="font-size:22px;">苦主救助中心Ⅳ Lovelorn Sanatorium Ⅳ DLCV0.01.1</summary><br>
 
   - [x] ***资源名称***：*苦主救助中心Ⅳ Lovelorn Sanatorium Ⅳ DLCV0.01.1*
   - [x] ***资源版本***：*v0.01.1 测试版*
@@ -56,7 +56,6 @@
   - [x] ***资源大小***：*&lt; 1.22GB*
 
 </details>
-
 
 ### ***关于本站***
 
