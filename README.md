@@ -1,4 +1,8 @@
-<h1> 基于 Github Pages 的静态页面资源分享站测试 </h1>
+
+<div align="center">
+  <img src="https://github.com/MsLGXC/GTA-StandAIO/blob/main/Elaina.jpg" alt="logo" width="100" height="100">
+  <h1> 基于 Github Pages 的静态页面资源分享站测试 </h1>
+</div>
 
 # 目录
 
@@ -30,6 +34,7 @@
   - [x] 资源日期：未知
   - [x] 最后测试：2024/7/7
   - [x] 最后状态：可用
+  - [x] 备注：暂无
 
 </details>
 
