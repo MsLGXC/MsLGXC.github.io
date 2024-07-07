@@ -1,8 +1,14 @@
-
-<div align="center">
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>基于 Github Pages 的静态页面资源分享站测试</title>
+</head>
+<body>
+  <div id="content">
+  <div align="center">
   <h1> 基于 Github Pages 的静态页面资源分享站测试 </h1>
-</div>
-<iframe src="https://raw.githubusercontent.com/MsLGXC/MsLGXC.github.io/main/README.md" width="100%" height="100%" frameborder="0"></iframe>
+  </div>
 
 # 目录
 
@@ -75,3 +81,11 @@
 
 - 本站所有资源均来自互联网，如有侵权请联系本站删除。
 - 本站所有资源仅供学习交流使用，请勿用于商业用途。
+</div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    document.getElementById('content').innerHTML =
+      marked.parse('# Marked in the browser\n\nRendered by **marked**.');
+  </script>
+</body>
+</html>
