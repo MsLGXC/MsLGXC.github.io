@@ -72,7 +72,7 @@
   <summary>死亡之种:爱之巢穴 含魅力之歌DLC与R版升级补丁</summary>
 
   - [x] ***资源版本***：*v230425*
-  - [x] ***资源链接***：*[123云盘/Seed.of.the.Dead.Sweet.Home.v2.103-76701](https://www.123pan.com/s/kMq3Td-unE7d.html)*
+  - [x] ***资源链接***：*[迅雷云盘/Seed.of.the.Dead.Sweet.Home.v2.103-76701](https://pan.xunlei.com/s/VNr8Wm_ljzUslQYpb5IYxVDLA1?pwd=qhmd)*
   - [x] ***资源链接***：*[SoD_SH_Patch_2.103R.zip](https://www.mediafire.com/file/m394m00set28ffr/SoD_SH_Patch_2.103R.zip/file)*
   - [ ] ***下载密码***：*无*
   - [ ] ***解压密码***：*无*
