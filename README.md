@@ -50,7 +50,7 @@
 
   - [x] ***资源版本***：*3.01*
   - [x] ***资源链接***：*[LosslessScaling_3.01_Green.rar](https://pan.baidu.com/s/1ejmAIS50U-mMK-DQYeztBQ?pwd=LGXC)*
-  - [ ] ***下载密码***：*LGXC*
+  - [x] ***下载密码***：*LGXC*
   - [ ] ***解压密码***：*无*
   - [x] ***最后测试***：*2025/2/11*
   - [x] ***最后状态***：*可用*
@@ -68,7 +68,7 @@
 
   - [x] ***资源版本***：*19.0.2.0007*
   - [x] ***资源链接***：*[Blackmagic Design DaVinci Resolve Studio 19.0.2.0007 (x64) Multilingual.rar](https://pan.baidu.com/s/1pWVhdBc8SKnMiwmMXZzKLA?pwd=LGXC)*
-  - [ ] ***下载密码***：*LGXC*
+  - [x] ***下载密码***：*LGXC*
   - [ ] ***解压密码***：*无*
   - [x] ***最后测试***：*2025/2/11*
   - [x] ***最后状态***：*可用*
@@ -81,6 +81,24 @@
   - [x] ***资源大小***：*4.9G*
 
 </details>
+<details>
+  <summary>Navicat Premium 16-17 破解</summary>
+
+  - [ ] ***资源版本***：*无*
+  - [x] ***资源链接***：*[winmm.dll](https://pan.baidu.com/s/1cfpPCBKSV72J1-Wh9OjGHw?pwd=LGXC)*
+  - [x] ***下载密码***：*LGXC*
+  - [ ] ***解压密码***：*无*
+  - [x] ***最后测试***：*2025/3/12*
+  - [x] ***最后状态***：*可用*
+  <br><br>
+  - [x] ***资源简介***：
+
+      *如题*
+
+  - [x] ***使用方法***：*官网安装navicat,吧dll放在根目录下*
+  - [x] ***资源大小***：*672KB*
+
+</details>
 
 # ***正经游戏***
 
@@ -89,7 +107,7 @@
 
   - [x] ***资源版本***：*空降神兵*
   - [x] ***资源链接***：*[百度网盘/地狱之门：东线-DLC及破解补丁](https://pan.baidu.com/s/1tWjZjSGF7eUKfw5hga8q2g?pwd=LGXC)*
-  - [ ] ***下载密码***：*无*
+  - [x] ***下载密码***：*LGXC*
   - [ ] ***解压密码***：*无*
   - [x] ***最后测试***：*2024/10/21*
   - [x] ***最后状态***：*可用*
@@ -232,7 +250,7 @@
   - [x] ***资源版本***：*v2.103*
   - [x] ***资源链接***：*[迅雷云盘/Seed.of.the.Dead.Sweet.Home.v2.103-76701](https://pan.xunlei.com/s/VNr8Wm_ljzUslQYpb5IYxVDLA1?pwd=qhmd)*
   - [x] ***资源链接***：*[SoD_SH_Patch_2.103R.zip](https://www.mediafire.com/file/m394m00set28ffr/SoD_SH_Patch_2.103R.zip/file)*
-  - [ ] ***下载密码***：*无*
+  - [x] ***下载密码***：*qhmd*
   - [ ] ***解压密码***：*无*
   - [x] ***最后测试***：*2024/8/17* 
   - [x] ***最后状态***：*可用*
